@@ -1,0 +1,42 @@
+{
+  "name": "glitch-db",
+  "version": "0.0.0",
+  "private": true,
+  "description": "This is a package for building a DB in Glitch.",
+  "author": "Awayume <awayume2021@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/Awayume/Issui/issues",
+    "email": "awayume2021@gmail.com"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "date-utils": "^1.2.21",
+    "debug": "^4.3.2",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependecies": {
+    "express-generator": "^4.16.1",
+    "npm-check-updates": "^12.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/Awayune/Glitch-DB"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "sqlite",
+    "api",
+    "datebase"
+  ]
+}
