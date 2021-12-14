@@ -1,11 +1,11 @@
 {
-  "name": "glitch-db",
+  "name": "nodejs-db",
   "version": "0.0.0",
   "private": true,
-  "description": "This is a package for building a DB in Glitch.",
+  "description": "This is a package for building a databases in Node.js.",
   "author": "Awayume <awayume2021@gmail.com>",
   "bugs": {
-    "url": "https://github.com/Awayume/Issui/issues",
+    "url": "https://github.com/Awayume/nodejs-db/issues",
     "email": "awayume2021@gmail.com"
   },
   "scripts": {
@@ -23,19 +23,18 @@
     "sqlite3": "^4.2.0"
   },
   "devDependecies": {
-    "express-generator": "^4.16.1",
-    "npm-check-updates": "^12.0.2"
+    "express-generator": "^4.16.1"
   },
   "engines": {
     "node": "16.12.x"
   },
   "repository": {
-    "url": "https://github.com/Awayune/Glitch-DB"
+    "url": "https://github.com/Awayune/nodejs-db"
   },
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
+    "express",
     "sqlite",
     "api",
     "datebase"
